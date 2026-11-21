@@ -1,4 +1,3 @@
-
 # capstone
 
 Deskripsi singkat mengenai project ini, tujuan pembuatannya, serta teknologi yang digunakan.
@@ -17,7 +16,7 @@ Ikuti langkah-langkah berikut untuk mengambil dan menjalankan project.
 
 ### 1. Clone Repository
 
-Buka terminal dan jalankan perintah berikut untuk mengcloning repository di kompter lokal kamu:
+Buka terminal dan jalankan perintah berikut untuk mengcloning repository di komputer lokal kamu:
 
 ```bash
 git clone https://github.com/RCS15/capstone.git
